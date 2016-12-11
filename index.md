@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
+### This website is a first attempt at collecting musical and literary resources for friends and strangers to enjoy ###
+
 <p>I like old timey music. Here is a list of tunes with links to my favorite versions. You should learn them. All of them</p>
 <p><a href ="https://www.youtube.com/watch?v=AI6Z04d5Wpc"> Bonaparte's Retreat/Yell in the Shoats </a> Brittany Haas.</p>
 <p><a href ="https://www.youtube.com/watch?v=lYh0LyhTj_Q"> I get my whiskey from Rockingham</a> Bruce Molsky.</p>
