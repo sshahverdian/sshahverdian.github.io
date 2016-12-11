@@ -20,3 +20,5 @@ I like old timey music. Here is a list of tunes with links to my favorite versio
 [Table of books](Tables\Community library.xlsx)
 
 [Fiddle Tunes](Fiddle tunes.md)
+
+[Songs for Singing](Songs for singing.md)
