@@ -7,12 +7,12 @@ There are many great resources out there already, check out:
 <!--The Session
 Traditional Music UK-->
 Enjoy!
-
+<!--<a href ="https://www.youtube.com/watch?v=VerYTG1MlhE&list=PLuyJzev9Xki1k2t9YB1geYq0CXl3-NhCQ"> Pretty saro </a>Tatiana Hargreaves.-->
 
 ### Old Time ###
 
 ### Irish ###
-Cliffs of Moher
+Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Played here by Kevin Burke </a>
 
 Drowsy Maggie
 
