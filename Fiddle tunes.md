@@ -11,6 +11,64 @@ Enjoy!
 
 ### Old Time ###
 
+Ashoken Farewell
+
+The Blackest Crow
+
+Boil dem Cabbages
+
+Bonaparte's Retreat
+
+Midnight on the Watershed
+
+Chinquapin Hunting
+
+Cluck Old Hen
+
+Colored Aristocracy
+
+Cuckoo's Nest
+
+Dry and Dusty
+
+Duck River
+
+I get my Whiskey from Rockingham
+
+Old Joe Clark
+
+Piney Mountain
+
+Pretty Saro
+
+Red Haired Boy
+
+Red Rocking Chair
+
+Alexander's Hornpipe
+
+Forked Deer
+
+Big Scioty
+
+Blackberry Blossom
+
+Cincinatti Hornpipe
+
+Devil's Dream
+
+Whiteface
+
+Soldier's Joy
+
+Salt River
+
+Rickett's Hornpipe
+
+Sailor's Hornpipe
+
+
+
 ### Irish ###
 Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Played here by Kevin Burke </a>
 
@@ -27,9 +85,29 @@ Si Bheag Si Mor
 Spootiskerry
 
 Swallowtail Jig
+
 The Banshee
+
 Tidy Woman
+
 The Rights of Man
+
 Tamlin
+
 The Maid Behind the Bar
+
 ### Bluegrass ###
+
+Angeline the Baker
+
+Arkansas Traveler
+
+Cripple Creek
+
+### Waltzes ###
+
+The Lover's Waltzes
+
+Midnight on the water
+
+Tennesse Waltz
