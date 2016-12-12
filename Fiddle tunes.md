@@ -7,6 +7,11 @@ This is just one more list of great old time, Irish and bluegrass tunes, and lin
 
 There are many great resources out there already, check out:
 
+<a href ="https://thesession.org/"> The Session </a> - Traditional Irish Music
+
+<a href ="http://www.traditionalmusic.co.uk/"> Traditional Music Library </a>  An enormous collection of all genres of traditional music, including old-time, Irish, bluegrass, cowboy songs and much more.
+
+
 <!--The Session
 Traditional Music UK-->
 Enjoy!
