@@ -85,7 +85,7 @@ Whiskey Before Breakfast
 
 
 ### Irish ###
-Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Played here by Kevin Burke </a>
+Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Played here by Kevin Burke </a> [Sheet Music](Sheet music\The Cliffs Of Moher.pdf)
 
 Drowsy Maggie
 
@@ -112,6 +112,7 @@ Tamlin
 The Maid Behind the Bar
 
 Old Mountain Dew
+
 ### Bluegrass ###
 
 Angeline the Baker
