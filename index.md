@@ -15,9 +15,9 @@ I like old timey music. Here is a list of tunes with links to my favorite versio
 
 <a href ="https://www.youtube.com/watch?v=d6jh1vqNvMs">The Blackest Crow</a> Bruce Molsky
 
-[List of Books](pdf resources\List of Books.docx)
+<!--[List of Books](pdf resources\List of Books.docx)
 
-[Table of books](Tables\Community library.xlsx)
+[Table of books](Tables\Community library.xlsx)-->
 
 [Fiddle Tunes](Fiddle tunes.md)
 
