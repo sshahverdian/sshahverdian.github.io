@@ -135,7 +135,7 @@ Roll in My Sweet Baby's Arms
 
 ### Waltzes ###
 
-The Lover's Waltzes
+The Lover's Waltz
 
 Midnight on the water
 
