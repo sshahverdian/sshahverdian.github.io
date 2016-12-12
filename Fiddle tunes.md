@@ -19,7 +19,13 @@ Enjoy!
 
 ### Old Time ###
 
+Alexander's Hornpipe
+
 Ashoken Farewell
+
+Big Scioty
+
+Blackberry Blossom
 
 The Blackest Crow
 
@@ -27,9 +33,9 @@ Boil dem Cabbages
 
 Bonaparte's Retreat
 
-Midnight on the Watershed
-
 Chinquapin Hunting
+
+Cincinatti Hornpipe
 
 Cluck Old Hen
 
@@ -37,13 +43,27 @@ Colored Aristocracy
 
 Cuckoo's Nest
 
+Devil's Dream
+
 Dry and Dusty
 
 Duck River
 
+Forked Deer
+
 I get my Whiskey from Rockingham
 
+Jack of Diamonds
+
+Lazy John
+
+Midnight on the Watershed
+
+Mountain Dew
+
 Old Joe Clark
+
+Pig in a Pen
 
 Piney Mountain
 
@@ -53,45 +73,25 @@ Red Haired Boy
 
 Red Rocking Chair
 
-Alexander's Hornpipe
-
-Forked Deer
-
-Big Scioty
-
-Blackberry Blossom
-
-Cincinatti Hornpipe
-
-Devil's Dream
-
-Whiteface
-
-Soldier's Joy
-
-Salt River
-
 Rickett's Hornpipe
 
 Sailor's Hornpipe
 
-Pig in a Pen
+Salt River
 
 Shady Grove
 
+Soldier's Joy
+
 Whiskey Before Breakfast
 
-Jack of Diamonds
-
-Lazy John
-
-
-
-
+Whiteface
 
 ### Irish ###
 
-The Road to Spencer <a href = "https://www.youtube.com/watch?v=X5g6KaLAuPw">  by Ricky Skaggs </a>
+Banish Misfortune
+
+The Banshee
 
 Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Played here</a> by Kevin Burke    [Sheet Music](Sheet music\The Cliffs Of Moher.pdf)
 
@@ -99,9 +99,17 @@ Drowsy Maggie
 
 Flowers of Edinburgh
 
+The Kesh Jig
+
+The Maid Behind the Bar
+
 Morrison's Jig
 
+The Rights of Man
+
 Road to Lisdoonvarna
+
+The Road to Spencer <a href = "https://www.youtube.com/watch?v=X5g6KaLAuPw">  by Ricky Skaggs </a>
 
 Si Bheag Si Mor
 
@@ -109,19 +117,9 @@ Spootiskerry
 
 Swallowtail Jig
 
-The Banshee
-
-Tidy Woman
-
-The Rights of Man
-
 Tamlin
 
-The Maid Behind the Bar
-
-Banish Misfortune
-
-Old Mountain Dew
+Tidy Woman
 
 ### Bluegrass ###
 
