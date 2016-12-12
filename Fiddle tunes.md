@@ -75,6 +75,13 @@ Rickett's Hornpipe
 
 Sailor's Hornpipe
 
+Pig in a Pen
+
+Shady Grove
+
+Whiskey Before Breakfast
+
+
 
 
 ### Irish ###
@@ -104,6 +111,7 @@ Tamlin
 
 The Maid Behind the Bar
 
+Old Mountain Dew
 ### Bluegrass ###
 
 Angeline the Baker
@@ -111,6 +119,8 @@ Angeline the Baker
 Arkansas Traveler
 
 Cripple Creek
+
+Roll in My Sweet Baby's Arms
 
 ### Waltzes ###
 
