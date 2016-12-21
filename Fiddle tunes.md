@@ -101,7 +101,7 @@ Flowers of Edinburgh
 
 The Kesh Jig
 
-The Maid Behind the Bar
+The Maid Behind the Bar [Sheet Music] (Sheet music\The Maid Behind The Bar (reel) on The Session.pdf)
 
 Morrison's Jig
 
