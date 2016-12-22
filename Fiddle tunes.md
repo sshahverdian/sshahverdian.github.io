@@ -101,11 +101,13 @@ Flowers of Edinburgh
 
 The Kesh Jig
 
-The Maid Behind the Bar [Sheet Music](Sheet music\The Maid Behind The Bar.pdf) by Scott
+The Maid Behind the Bar [Sheet Music](Sheet music\The Maid Behind The Bar.pdf)
+
+The Merry Sisters of Fate [Sheet Music](Sheet music\The Merry Sisters Of Fate.pdf)
 
 Morrison's Jig
 
-The Rights of Man
+The Rights of Man <a href = "https://www.youtube.com/watch?v=jcI-aqZ1qQA">  Played here</a> by David Algeo Smith
 
 Road to Lisdoonvarna
 
