@@ -89,7 +89,8 @@ Whiteface
 
 ### Irish ###
 
-Banish Misfortune
+Banish Misfortune <a href = "https://www.youtube.com/watch?v=avPstyTW-T8">  Played here</a> by Ian Walsh
+
 
 The Banshee <a href = "https://www.youtube.com/watch?v=qzpNKvRaM0k">  Played here</a> by Kevin Burke
 
