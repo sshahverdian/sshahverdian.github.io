@@ -101,7 +101,7 @@ Flowers of Edinburgh
 
 The Kesh Jig
 
-The Maid Behind the Bar [Sheet Music](Sheet music\The Maid Behind The Bar.pdf)
+The Maid Behind the Bar [Sheet Music](Sheet music\The Maid Behind The Bar.pdf) <a href = "https://www.youtube.com/watch?v=StDL0SzDd2M"> Listen here </a>
 
 The Merry Sisters of Fate [Sheet Music](Sheet music\The Merry Sisters Of Fate.pdf)
 
