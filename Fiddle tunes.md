@@ -92,7 +92,7 @@ Whiteface
 Banish Misfortune <a href = "https://www.youtube.com/watch?v=avPstyTW-T8">  Played here</a> by Ian Walsh
 
 
-The Banshee <a href = "https://www.youtube.com/watch?v=qzpNKvRaM0k">  Played here</a> by Kevin Burke
+The Banshee <a href = "https://www.youtube.com/watch?v=qzpNKvRaM0k">  Played here</a> by Kevin Burke [Sheet music v1](Sheet music\The Banshee.pdf)  [Sheet music plus tab v2](Sheet music\The Banshee with tabs v2.pdf)
 
 Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Played here</a> by Kevin Burke    [Sheet Music](Sheet music\The Cliffs Of Moher.pdf)
 
