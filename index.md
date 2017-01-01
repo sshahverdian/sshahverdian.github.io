@@ -1,19 +1,6 @@
-### This website is a first attempt at collecting musical and literary resources for friends and strangers to enjoy ###
+### This website is a first attempt at creating an online resource of tunes we all ought to play together. You'll find a list of tunes, and a growing collection of links to videos and/or recordings as well as tabs and sheet music. There are many such lists already out there, this is simply the list of tunes I already know and would love to play with you too.
 
-
-I like old timey music. Here is a list of tunes with links to my favorite versions. You should learn them. All of them.
-
-
-
-<a href ="https://www.youtube.com/watch?v=lYh0LyhTj_Q"> I get my whiskey from Rockingham</a> Bruce Molsky.
-
-<a href ="https://www.youtube.com/watch?v=jxmtrd0H8og"> Jack of Diamonds</a> Bruce Molsky.
-
-<a href ="https://www.youtube.com/watch?v=VerYTG1MlhE&list=PLuyJzev9Xki1k2t9YB1geYq0CXl3-NhCQ"> Pretty saro </a>Tatiana Hargreaves.
-
-<a href ="https://www.youtube.com/watch?v=kuhtMnm6KjM"> Bury me not on the lone prairie</a> Bruce Molsky.
-
-<a href ="https://www.youtube.com/watch?v=d6jh1vqNvMs">The Blackest Crow</a> Bruce Molsky
+I like fiddle tunes, especially old-time tunes and Irish tunes, so that's mostly what you'll find here. You should learn them! If there are some tunes you know that you'd like to see up here, let me know and I'll put them up.
 
 <!--[List of Books](pdf resources\List of Books.docx)
 

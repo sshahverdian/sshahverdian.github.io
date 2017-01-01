@@ -27,11 +27,13 @@ Big Scioty
 
 Blackberry Blossom
 
-The Blackest Crow
+The Blackest Crow <a href ="https://www.youtube.com/watch?v=d6jh1vqNvMs">Played here</a> by Bruce Molsky
 
 Boil dem Cabbages
 
-Bonaparte's Retreat  [Played here] <a href ="https://www.youtube.com/watch?v=AI6Z04d5Wpc"> Played here </a> by Brittany Haas. 
+Bonaparte's Retreat  [Played here] <a href ="https://www.youtube.com/watch?v=AI6Z04d5Wpc"> Played here </a> by Brittany Haas
+
+Bury me not on the lone prairie <a href ="https://www.youtube.com/watch?v=kuhtMnm6KjM"> Played here </a> by Bruce Molsky
 
 Chinquapin Hunting
 
@@ -51,9 +53,9 @@ Duck River
 
 Forked Deer
 
-I get my Whiskey from Rockingham
+I get my Whiskey from Rockingham <a href ="https://www.youtube.com/watch?v=lYh0LyhTj_Q"> Played here </a> by Bruce Molsky.
 
-Jack of Diamonds
+Jack of Diamonds <a href ="https://www.youtube.com/watch?v=jxmtrd0H8og"> Played here </a> by Bruce Molsky.
 
 Lazy John
 
@@ -67,7 +69,7 @@ Pig in a Pen
 
 Piney Mountain
 
-Pretty Saro
+Pretty Saro  <a href ="https://www.youtube.com/watch?v=VerYTG1MlhE&list=PLuyJzev9Xki1k2t9YB1geYq0CXl3-NhCQ"> Played here  </a> by Tatiana Hargreaves.
 
 Red Haired Boy
 
