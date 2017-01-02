@@ -35,7 +35,7 @@ Bonaparte's Retreat  <a href ="https://www.youtube.com/watch?v=AI6Z04d5Wpc"> Pla
 
 Bury me not on the lone prairie <a href ="https://www.youtube.com/watch?v=kuhtMnm6KjM"> Played here </a> by Bruce Molsky
 
-Chinquapin Hunting
+Chinquapin Hunting <a href = "https://www.youtube.com/watch?v=TYS7xyNW8Mc"> Played here </a> by Bruce Molsky and Friends
 
 Cincinatti Hornpipe
 
@@ -47,15 +47,15 @@ Cuckoo's Nest
 
 Devil's Dream
 
-Dry and Dusty
+Dry and Dusty <a href = "https://www.youtube.com/watch?v=R_cUNV7L66c"> Played here </a> by Brittany Haas
 
-Duck River
+Duck River <a href = "https://www.youtube.com/watch?v=2KEubV9ZWX0"> Played here </a> by Brittany Haas
 
 Forked Deer
 
 I get my Whiskey from Rockingham <a href ="https://www.youtube.com/watch?v=lYh0LyhTj_Q"> Played here </a> by Bruce Molsky.
 
-Jack of Diamonds <a href ="https://www.youtube.com/watch?v=jxmtrd0H8og"> Played here </a> by Bruce Molsky.
+Jack of Diamonds <a href ="https://www.youtube.com/watch?v=jxmtrd0H8og"> Played here </a> by Bruce Molsky
 
 Lazy John
 
@@ -73,7 +73,7 @@ Pretty Saro  <a href ="https://www.youtube.com/watch?v=VerYTG1MlhE&list=PLuyJzev
 
 Red Haired Boy
 
-Red Rocking Chair
+Red Rocking Chair <a href = "https://www.youtube.com/watch?v=0rfFGvlGlpk"> Played here </a> by Tatiana Hargreaves
 
 Rickett's Hornpipe
 
