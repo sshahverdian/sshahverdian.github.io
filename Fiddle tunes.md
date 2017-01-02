@@ -25,7 +25,7 @@ Ashoken Farewell <a href = "https://www.youtube.com/watch?v=d6jh1vqNvMs"> Played
 
 Big Scioty <a href = "https://www.youtube.com/watch?v=Gyj7m0QdFkM"> Played here </a> Aly Bain and Jay Ungar on the Transatlantic Sessions
 
-Blackberry Blossom
+Blackberry Blossom <a href = "https://www.youtube.com/watch?v=FaK3Y6b6MHw"> Doc Watson and friends </a>
 
 The Blackest Crow <a href ="https://www.youtube.com/watch?v=d6jh1vqNvMs">Played here</a> by Bruce Molsky
 
