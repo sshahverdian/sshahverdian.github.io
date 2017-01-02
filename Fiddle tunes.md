@@ -19,11 +19,11 @@ Enjoy!
 
 ### Old Time ###
 
-Alexander's Hornpipe
+Alexander's Hornpipe <a href ="https://www.youtube.com/watch?v=gv9013QAiag"> Listen here
 
 Ashoken Farewell <a href = "https://www.youtube.com/watch?v=d6jh1vqNvMs"> Played here </a> by Jay Ungar
 
-Big Scioty
+Big Scioty <a href = "https://www.youtube.com/watch?v=Gyj7m0QdFkM"> Played here </a> Aly Bain and Jay Ungar on the Transatlantic Sessions
 
 Blackberry Blossom
 
