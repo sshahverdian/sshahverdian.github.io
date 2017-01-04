@@ -1,23 +1,25 @@
 ## Songs to Sings ##
 
-Angeline the Baker (lyrics & chords) (sheet music) (chords)
+Angeline the Baker
+
+Bury Me Beneath the Willow
+
+Church Street Blues
+
+How Mountain Girls Can Love
 
 Nellie Kane (lyrics and chords)
 
-Tennesse Stud (lyrics and chords)
+Nine Pound Hammer
 
-Vincent Black Lightning (lyrics and chords)
+Rocky Top
 
 Steam Powered Aero-plane
 
 The Steamboat Whistle Blues
 
-How Mountain Girls Can Love
+Tennesse Stud (lyrics and chords)
 
-Rocky Top
+Vincent Black Lightning (lyrics and chords)
 
-Nine Pound Hammer
-
-Bury Me Beneath the Willow
-
-Church Street Blues
+Way Down the Old Plank Road

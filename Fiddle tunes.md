@@ -45,6 +45,8 @@ Colored Aristocracy
 
 Cuckoo's Nest
 
+Dear Old Dixie
+
 Devil's Dream
 
 Dry and Dusty <a href = "https://www.youtube.com/watch?v=R_cUNV7L66c"> Played here </a> by Brittany Haas
@@ -65,6 +67,8 @@ Mountain Dew
 
 Old Joe Clark
 
+Peg and Awl
+
 Pig in a Pen
 
 Piney Mountain
@@ -84,6 +88,8 @@ Salt River
 Shady Grove
 
 Soldier's Joy
+
+The Squirrel Hunters
 
 Whiskey Before Breakfast
 
@@ -110,7 +116,7 @@ The Maid Behind the Bar [Sheet Music](Sheet music\The Maid Behind The Bar.pdf) <
 
 The Merry Sisters of Fate [Sheet Music](Sheet music\The Merry Sisters Of Fate.pdf)
 
-Morrison's Jig
+Morrison's Jig [Sheet Music](Sheet music\Morrison's jig.pdf) with chords
 
 The Rights of Man <a href = "https://www.youtube.com/watch?v=jcI-aqZ1qQA">  Played here</a> by David Algeo Smith
 
