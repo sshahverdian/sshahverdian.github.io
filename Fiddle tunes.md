@@ -11,6 +11,7 @@ There are many great resources out there already, check out:
 
 <a href ="http://www.traditionalmusic.co.uk/"> Traditional Music Library </a>  An enormous collection of all genres of traditional music, including old-time, Irish, bluegrass, cowboy songs and much more.
 
+<a href ="http://www.traditionalmusic.co.uk/chords/guitar(dadgad)-chords-e-minor.htm"> Chords for DADGAD </a>
 
 <!--The Session
 Traditional Music UK-->
