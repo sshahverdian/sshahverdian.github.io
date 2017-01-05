@@ -24,7 +24,7 @@ Alexander's Hornpipe <a href ="https://www.youtube.com/watch?v=gv9013QAiag"> Lis
 
 Ashoken Farewell <a href = "https://www.youtube.com/watch?v=d6jh1vqNvMs"> Played here </a> by Jay Ungar
 
-Big Scioty <a href = "https://www.youtube.com/watch?v=Gyj7m0QdFkM"> Played here </a> Aly Bain and Jay Ungar on the Transatlantic Sessions
+Big Scioty <a href = "https://www.youtube.com/watch?v=Gyj7m0QdFkM"> Played here </a> Aly Bain and Jay Ungar on the Transatlantic Sessions [Sheet Music](Sheet music\Big Sciote.pdf)
 
 Blackberry Blossom <a href = "https://www.youtube.com/watch?v=FaK3Y6b6MHw"> Doc Watson and friends </a>
 
