@@ -115,6 +115,8 @@ The Kesh Jig
 
 The Maid Behind the Bar [Sheet Music](Sheet music\The Maid Behind The Bar.pdf) <a href = "https://www.youtube.com/watch?v=StDL0SzDd2M"> Listen here </a>
 
+Mary Blacksmith
+
 The Merry Sisters of Fate [Sheet Music](Sheet music\The Merry Sisters Of Fate.pdf)
 
 Morrison's Jig [Sheet Music](Sheet music\Morrison's jig.pdf) with chords
@@ -135,6 +137,46 @@ Tamlin
 
 Tidy Woman
 
+<!--sets
+Banshee
+Mary Blacksmith
+Maid behind the Bar
+
+Road to Lisdoonvarna
+Swallowtail Jig
+Morrison's Jig
+
+Rakes of Kildare
+ The Mountain Road
+
+ Bill Sullivan
+
+ St. Anne's Reel
+ Scully Casey's Jig
+ John Ryan's Polka
+
+ Ballydesmond Polka
+ Harvest Home Hornpipe (might be Cincinatti hornpipe)
+ the Boys of bluehill
+
+ Off to California
+The Earl's Chair
+
+Cup of tea
+
+Green Mountain
+Ships are Sailing
+Temperance Reel
+
+Blarney Pilgrim
+Merrily Kiss the Quaker
+
+Rose in the Heather
+
+
+
+
+-->
 ### Bluegrass ###
 
 Angeline the Baker
