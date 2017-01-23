@@ -96,12 +96,14 @@ Whiskey Before Breakfast
 
 Whiteface
 
-### Irish ###
+### Celtic ###
 
 Banish Misfortune <a href = "https://www.youtube.com/watch?v=avPstyTW-T8">  Played here</a> by Ian Walsh [Sheet Music v1](Sheet music\Banish misfortune v1.pdf)--[Sheet music with tabs v2](Sheet music\Banish Misfortune with tabs v2.pdf)
 
 
 The Banshee <a href = "https://www.youtube.com/watch?v=qzpNKvRaM0k">  Played here</a> by Kevin Burke [Sheet music v1](Sheet music\The Banshee.pdf)--  [Sheet music plus tab v2](Sheet music\The Banshee with tabs v2.pdf)
+
+The Blarney Pilgrim
 
 Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Played here</a> by Kevin Burke    [Sheet Music](Sheet music\The Cliffs Of Moher.pdf)
 
@@ -109,7 +111,13 @@ Drowsy Maggie
 
 Flowers of Edinburgh
 
+Grand Etang
+
 Home by Bearna [Listen](Recordings\Home by Bearna.mp3)
+
+Hull's Reel
+
+Irish Washerwoman
 
 The Kesh Jig
 
