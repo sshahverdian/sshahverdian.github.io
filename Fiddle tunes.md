@@ -178,15 +178,14 @@ Ships are Sailing
 Temperance Reel
 
 Blarney Pilgrim
+The Kesh Jig
 Merrily Kiss the Quaker
+
 
 Rose in the Heather
 
-
-
-
 -->
-### Bluegrass ###
+### Bluegrass
 
 Angeline the Baker
 

@@ -1,4 +1,4 @@
-## Songs to Sings ##
+## Songs to Sing ##
 
 Angeline the Baker
 
