@@ -142,7 +142,7 @@ Spootiskerry
 
 Swallowtail Jig
 
-Tamlin
+Tamlin <a href = "https://www.youtube.com/watch?v=_QuVHGn37dc">  Played here</a> by Ian Walsh
 
 Tidy Woman
 
