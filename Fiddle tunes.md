@@ -82,7 +82,7 @@ Red Rocking Chair <a href = "https://www.youtube.com/watch?v=0rfFGvlGlpk"> Playe
 
 Rickett's Hornpipe
 
-Rocking in a Weary Land <a href = "https://www.youtube.com/watch?v=dZeaR24oK_o"> by The Gilded Bats
+Rocking in a Weary Land <a href = "https://www.youtube.com/watch?v=dZeaR24oK_o"> by The Gilded Bats </a>
  
 Sailor's Hornpipe
 
@@ -112,7 +112,7 @@ Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Played
 
 Drowsy Maggie
 
-Farewell to Trion <a href = "https://www.youtube.com/watch?v=zJQabRQjXEw"> 
+Farewell to Trion <a href = "https://www.youtube.com/watch?v=zJQabRQjXEw"> James Bryan </a>
 
 Flowers of Edinburgh
 
