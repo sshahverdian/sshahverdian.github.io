@@ -82,6 +82,8 @@ Red Rocking Chair <a href = "https://www.youtube.com/watch?v=0rfFGvlGlpk"> Playe
 
 Rickett's Hornpipe
 
+Rocking in a Weary Land <a href = "https://www.youtube.com/watch?v=dZeaR24oK_o"> by The Gilded Bats
+ 
 Sailor's Hornpipe
 
 Salt River
