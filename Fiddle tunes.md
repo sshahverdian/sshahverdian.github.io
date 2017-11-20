@@ -112,6 +112,8 @@ Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Played
 
 Drowsy Maggie
 
+Farewell to Trion <a href = "https://www.youtube.com/watch?v=zJQabRQjXEw"> 
+
 Flowers of Edinburgh
 
 Grand Etang
