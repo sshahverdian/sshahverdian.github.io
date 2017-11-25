@@ -24,7 +24,7 @@ Alexander's Hornpipe <a href ="https://www.youtube.com/watch?v=gv9013QAiag"> Lis
 
 Ashoken Farewell <a href = "https://www.youtube.com/watch?v=d6jh1vqNvMs"> Jay Ungar </a> by 
 
-Big Scioty <a href = "https://www.youtube.com/watch?v=Gyj7m0QdFkM"> Aly Bain and Jay Ungar </a> [Sheet Music](Sheet music\Big Sciote.pdf)
+Big Scioty <a href = "https://www.youtube.com/watch?v=Gyj7m0QdFkM"> Aly Bain and Jay Ungar </a> -- [Sheet Music](Sheet music\Big Sciote.pdf)
 
 Blackberry Blossom <a href = "https://www.youtube.com/watch?v=FaK3Y6b6MHw"> Doc Watson and friends </a>
 
@@ -100,16 +100,16 @@ Whiteface <a href = "https://www.youtube.com/watch?v=4P8A22xGFv4"> Rachel Eddy <
 
 ### Celtic ###
 
-Banish Misfortune <a href = "https://www.youtube.com/watch?v=avPstyTW-T8">  Ian Walsh </a> [Sheet music](Sheet music\Banish misfortune v1.pdf)
---[Sheet music with tabs v2](Sheet music\Banish Misfortune with tabs v2.pdf)
+Banish Misfortune <a href = "https://www.youtube.com/watch?v=avPstyTW-T8">  Ian Walsh </a> -- [Sheet music](Sheet music\Banish misfortune v1.pdf)
 
 
-The Banshee <a href = "https://www.youtube.com/watch?v=qzpNKvRaM0k">  Kevin Burke </a>  [Sheet music v1](Sheet music\The Banshee.pdf)--  [Sheet music plus tab v2](Sheet music\The Banshee with tabs v2.pdf)
+
+The Banshee <a href = "https://www.youtube.com/watch?v=qzpNKvRaM0k">  Kevin Burke </a>  -- [Sheet music v1](Sheet music\The Banshee.pdf)--  [Sheet music plus tab v2](Sheet music\The Banshee with tabs v2.pdf)
 
 The Blarney Pilgrim [Sheet Music](Sheet music\The Blarney Pilgrim - The Kesh Jig.pdf)
 
 
-Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Kevin Burke </a>    [Sheet Music](Sheet music\The Cliffs Of Moher.pdf)
+Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Kevin Burke </a> -- [Sheet Music](Sheet music\The Cliffs Of Moher.pdf)
 
 Drowsy Maggie
 
@@ -121,7 +121,7 @@ Grand Etang
 
 Home by Bearna [Listen](Recordings\Home by Bearna.mp3)
 
-Hull's Reel [Sheet Music](Sheet music\Hull's Reel.pdf)
+Hull's Reel <a href ="https://www.youtube.com/watch?v=08zd3hI87bc"> Alasdair Fraser and Natalie Haas </a> -- [Sheet Music](Sheet music\Hull's Reel.pdf)
 
 Irish Washerwoman
 
