@@ -100,7 +100,8 @@ Whiteface <a href = "https://www.youtube.com/watch?v=4P8A22xGFv4"> Rachel Eddy <
 
 ### Celtic ###
 
-Banish Misfortune <a href = "https://www.youtube.com/watch?v=avPstyTW-T8">  Ian Walsh </a> [Sheet Music v1](Sheet music\Banish misfortune v1.pdf)--[Sheet music with tabs v2](Sheet music\Banish Misfortune with tabs v2.pdf)
+Banish Misfortune <a href = "https://www.youtube.com/watch?v=avPstyTW-T8">  Ian Walsh </a> [Sheet music](Sheet music\Banish misfortune v1.pdf)
+--[Sheet music with tabs v2](Sheet music\Banish Misfortune with tabs v2.pdf)
 
 
 The Banshee <a href = "https://www.youtube.com/watch?v=qzpNKvRaM0k">  Kevin Burke </a>  [Sheet music v1](Sheet music\The Banshee.pdf)--  [Sheet music plus tab v2](Sheet music\The Banshee with tabs v2.pdf)
