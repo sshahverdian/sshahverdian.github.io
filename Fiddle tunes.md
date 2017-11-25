@@ -60,9 +60,9 @@ I get my Whiskey from Rockingham <a href ="https://www.youtube.com/watch?v=lYh0L
 
 Jack of Diamonds <a href ="https://www.youtube.com/watch?v=jxmtrd0H8og"> Played here </a> by Bruce Molsky
 
-Lazy John
+Lazy John <a href ="https://www.youtube.com/watch?v=AZCLPwFZGgY"> Bruce Molsky </a> 
 
-Midnight on the Watershed
+Midnight on the Water
 
 Mountain Dew
 
