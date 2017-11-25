@@ -22,21 +22,21 @@ Enjoy!
 
 Alexander's Hornpipe <a href ="https://www.youtube.com/watch?v=gv9013QAiag"> Listen here
 
-Ashoken Farewell <a href = "https://www.youtube.com/watch?v=d6jh1vqNvMs"> Played here </a> by Jay Ungar
+Ashoken Farewell <a href = "https://www.youtube.com/watch?v=d6jh1vqNvMs"> Jay Ungar </a> by 
 
-Big Scioty <a href = "https://www.youtube.com/watch?v=Gyj7m0QdFkM"> Played here </a> Aly Bain and Jay Ungar on the Transatlantic Sessions [Sheet Music](Sheet music\Big Sciote.pdf)
+Big Scioty <a href = "https://www.youtube.com/watch?v=Gyj7m0QdFkM"> Aly Bain and Jay Ungar </a> [Sheet Music](Sheet music\Big Sciote.pdf)
 
 Blackberry Blossom <a href = "https://www.youtube.com/watch?v=FaK3Y6b6MHw"> Doc Watson and friends </a>
 
-The Blackest Crow <a href ="https://www.youtube.com/watch?v=d6jh1vqNvMs">Played here</a> by Bruce Molsky
+The Blackest Crow <a href ="https://www.youtube.com/watch?v=d6jh1vqNvMs"> Bruce Molsky </a> 
 
 Boil dem Cabbages <a href = "https://www.youtube.com/watch?v=F-K-TGMpkUM"> Listen here
 
-Bonaparte's Retreat  <a href ="https://www.youtube.com/watch?v=AI6Z04d5Wpc"> Played here </a> by Brittany Haas
+Bonaparte's Retreat  <a href ="https://www.youtube.com/watch?v=AI6Z04d5Wpc"> Brittany Haas </a>
 
-Bury me not on the lone prairie <a href ="https://www.youtube.com/watch?v=kuhtMnm6KjM"> Played here </a> by Bruce Molsky
+Bury me not on the lone prairie <a href ="https://www.youtube.com/watch?v=kuhtMnm6KjM"> Bruce Molsky </a>
 
-Chinquapin Hunting <a href = "https://www.youtube.com/watch?v=TYS7xyNW8Mc"> Played here </a> by Bruce Molsky and Friends
+Chinquapin Hunting <a href = "https://www.youtube.com/watch?v=TYS7xyNW8Mc"> Bruce Molsky </a> 
 
 Cincinatti Hornpipe
 
@@ -50,15 +50,15 @@ Dear Old Dixie
 
 Devil's Dream
 
-Dry and Dusty <a href = "https://www.youtube.com/watch?v=R_cUNV7L66c"> Played here </a> by Brittany Haas
+Dry and Dusty <a href = "https://www.youtube.com/watch?v=R_cUNV7L66c"> Brittany Haas </a> 
 
-Duck River <a href = "https://www.youtube.com/watch?v=2KEubV9ZWX0"> Played here </a> by Brittany Haas
+Duck River <a href = "https://www.youtube.com/watch?v=2KEubV9ZWX0"> Brittany Haas </a> 
 
 Forked Deer
 
-I get my Whiskey from Rockingham <a href ="https://www.youtube.com/watch?v=lYh0LyhTj_Q"> Played here </a> by Bruce Molsky.
+I get my Whiskey from Rockingham <a href ="https://www.youtube.com/watch?v=lYh0LyhTj_Q"> Bruce Molsky </a> 
 
-Jack of Diamonds <a href ="https://www.youtube.com/watch?v=jxmtrd0H8og"> Played here </a> by Bruce Molsky
+Jack of Diamonds <a href ="https://www.youtube.com/watch?v=jxmtrd0H8og"> Bruce Molsky </a> 
 
 Lazy John <a href ="https://www.youtube.com/watch?v=AZCLPwFZGgY"> Bruce Molsky </a> 
 
@@ -74,15 +74,15 @@ Pig in a Pen
 
 Piney Mountain <a href = "https://www.youtube.com/watch?v=jv6RN3KpVk0" Bruce Molsky </a>
 
-Pretty Saro  <a href ="https://www.youtube.com/watch?v=VerYTG1MlhE&list=PLuyJzev9Xki1k2t9YB1geYq0CXl3-NhCQ"> Played here  </a> by Tatiana Hargreaves.
+Pretty Saro  <a href ="https://www.youtube.com/watch?v=VerYTG1MlhE&list=PLuyJzev9Xki1k2t9YB1geYq0CXl3-NhCQ"> Tatiana Hargreaves  </a> 
 
 Red Haired Boy
 
-Red Rocking Chair <a href = "https://www.youtube.com/watch?v=0rfFGvlGlpk"> Played here </a> by Tatiana Hargreaves
+Red Rocking Chair <a href = "https://www.youtube.com/watch?v=0rfFGvlGlpk"> Tatiana Hargreaves </a> 
 
 Rickett's Hornpipe
 
-Rocking in a Weary Land <a href = "https://www.youtube.com/watch?v=dZeaR24oK_o"> by The Gilded Bats </a>
+Rocking in a Weary Land <a href = "https://www.youtube.com/watch?v=dZeaR24oK_o"> The Gilded Bats </a>
  
 Sailor's Hornpipe
 
@@ -100,15 +100,15 @@ Whiteface <a href = "https://www.youtube.com/watch?v=4P8A22xGFv4"> Rachel Eddy <
 
 ### Celtic ###
 
-Banish Misfortune <a href = "https://www.youtube.com/watch?v=avPstyTW-T8">  Played here</a> by Ian Walsh [Sheet Music v1](Sheet music\Banish misfortune v1.pdf)--[Sheet music with tabs v2](Sheet music\Banish Misfortune with tabs v2.pdf)
+Banish Misfortune <a href = "https://www.youtube.com/watch?v=avPstyTW-T8">  Ian Walsh </a> [Sheet Music v1](Sheet music\Banish misfortune v1.pdf)--[Sheet music with tabs v2](Sheet music\Banish Misfortune with tabs v2.pdf)
 
 
-The Banshee <a href = "https://www.youtube.com/watch?v=qzpNKvRaM0k">  Played here</a> by Kevin Burke [Sheet music v1](Sheet music\The Banshee.pdf)--  [Sheet music plus tab v2](Sheet music\The Banshee with tabs v2.pdf)
+The Banshee <a href = "https://www.youtube.com/watch?v=qzpNKvRaM0k">  Kevin Burke </a>  [Sheet music v1](Sheet music\The Banshee.pdf)--  [Sheet music plus tab v2](Sheet music\The Banshee with tabs v2.pdf)
 
 The Blarney Pilgrim [Sheet Music](Sheet music\The Blarney Pilgrim - The Kesh Jig.pdf)
 
 
-Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Played here</a> by Kevin Burke    [Sheet Music](Sheet music\The Cliffs Of Moher.pdf)
+Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Kevin Burke </a>    [Sheet Music](Sheet music\The Cliffs Of Moher.pdf)
 
 Drowsy Maggie
 
@@ -134,11 +134,11 @@ The Merry Sisters of Fate [Sheet Music](Sheet music\The Merry Sisters Of Fate.pd
 
 Morrison's Jig [Sheet Music](Sheet music\Morrison's jig.pdf) with chords
 
-The Rights of Man <a href = "https://www.youtube.com/watch?v=jcI-aqZ1qQA">  Played here</a> by David Algeo Smith
+The Rights of Man <a href = "https://www.youtube.com/watch?v=jcI-aqZ1qQA">  David Algeo Smith </a>
 
 Road to Lisdoonvarna
 
-The Road to Spencer <a href = "https://www.youtube.com/watch?v=X5g6KaLAuPw">  by Ricky Skaggs </a>
+The Road to Spencer <a href = "https://www.youtube.com/watch?v=X5g6KaLAuPw">  Ricky Skaggs </a>
 
 Si Bheag Si Mor
 
@@ -146,7 +146,7 @@ Spootiskerry
 
 Swallowtail Jig
 
-Tamlin <a href = "https://www.youtube.com/watch?v=_QuVHGn37dc">  Played here</a> by Ian Walsh
+Tamlin <a href = "https://www.youtube.com/watch?v=_QuVHGn37dc">  Ian Walsh </a>
 
 Tidy Woman
 
