@@ -1,4 +1,4 @@
-** Bury Me Not on the Lone Prairie**
+**Bury Me Not on the Lone Prairie**
 
 O bury me not on the lone prairie
 These words came low and mournfully
