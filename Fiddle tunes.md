@@ -62,17 +62,17 @@ Jack of Diamonds <a href ="https://www.youtube.com/watch?v=jxmtrd0H8og"> Bruce M
 
 Lazy John <a href ="https://www.youtube.com/watch?v=AZCLPwFZGgY"> Bruce Molsky </a> 
 
-Midnight on the Water <a href ="https://www.youtube.com/watch?v=qc0-LIkX2zQ" Daniel Foulks </a>
+Midnight on the Water <a href ="https://www.youtube.com/watch?v=qc0-LIkX2zQ"> Daniel Foulks </a>
 
 Mountain Dew
 
 Old Joe Clark
 
-Peg and Awl <a href ="https://www.youtube.com/watch?v=nwMycwsC_-8" Bruce Molsky Band </a>
+Peg and Awl <a href ="https://www.youtube.com/watch?v=nwMycwsC_-8"> Bruce Molsky Band </a>
 
 Pig in a Pen
 
-Piney Mountain <a href = "https://www.youtube.com/watch?v=jv6RN3KpVk0" Bruce Molsky </a>
+Piney Mountain <a href = "https://www.youtube.com/watch?v=jv6RN3KpVk0"> Bruce Molsky </a>
 
 Pretty Saro  <a href ="https://www.youtube.com/watch?v=VerYTG1MlhE&list=PLuyJzev9Xki1k2t9YB1geYq0CXl3-NhCQ"> Tatiana Hargreaves  </a> 
 
@@ -92,9 +92,9 @@ Shady Grove
 
 Soldier's Joy
 
-The Squirrel Hunters <a href = "https://www.youtube.com/watch?v=njXObuqrzgI" Sharon Gilchrist and Darol Anger </a>
+The Squirrel Hunters <a href = "https://www.youtube.com/watch?v=njXObuqrzgI"> Sharon Gilchrist and Darol Anger </a>
 
-Whiskey Before Breakfast <a href= "https://www.youtube.com/watch?v=chGUHMAoMV8" Norman Blake </a>
+Whiskey Before Breakfast <a href= "https://www.youtube.com/watch?v=chGUHMAoMV8"> Norman Blake </a>
 
 Whiteface <a href = "https://www.youtube.com/watch?v=4P8A22xGFv4"> Rachel Eddy </a>
 
