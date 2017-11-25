@@ -1,6 +1,6 @@
 ## Songs to Sing 
 
-Angeline the Baker [Chords and Lyrics](Lyrics\Angeline the Baker.md)
+Angeline the Baker [Chords and Lyrics](Lyrics\angeline the baker.md)
 
 Bury Me Beneath the Willow [Chords and Lyrics](Lyrics\bury me beneath the willow.md)
 
@@ -16,7 +16,7 @@ Rocky Top [Chords and Lyrics](Lyrics\rocky top.md)
 
 Steam Powered Aero-plane [Chords and Lyrics](steam powered aeroplane.md)
 
-TSteamboat Whistle Blues [Chords and Lyrics](Lyrics\steamboat whistle blues.md)
+Steamboat Whistle Blues [Chords and Lyrics](Lyrics\steamboat whistle blues.md)
 
 Tennessee Stud [Chords and Lyrics](Lyrics\tennessee stud.md)
 
