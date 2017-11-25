@@ -86,17 +86,17 @@ Rocking in a Weary Land <a href = "https://www.youtube.com/watch?v=dZeaR24oK_o">
  
 Sailor's Hornpipe
 
-Salt River
+Salt Creek
 
 Shady Grove
 
 Soldier's Joy
 
-The Squirrel Hunters
+The Squirrel Hunters <a href = "https://www.youtube.com/watch?v=njXObuqrzgI" Sharon Gilchrist and Darol Anger </a>
 
-Whiskey Before Breakfast
+Whiskey Before Breakfast <a href= "https://www.youtube.com/watch?v=chGUHMAoMV8" Norman Blake </a>
 
-Whiteface
+Whiteface <a href = "https://www.youtube.com/watch?v=4P8A22xGFv4"> Rachel Eddy </a>
 
 ### Celtic ###
 
