@@ -62,17 +62,17 @@ Jack of Diamonds <a href ="https://www.youtube.com/watch?v=jxmtrd0H8og"> Played 
 
 Lazy John <a href ="https://www.youtube.com/watch?v=AZCLPwFZGgY"> Bruce Molsky </a> 
 
-Midnight on the Water
+Midnight on the Water <a href ="https://www.youtube.com/watch?v=qc0-LIkX2zQ" Daniel Foulks </a>
 
 Mountain Dew
 
 Old Joe Clark
 
-Peg and Awl
+Peg and Awl <a href ="https://www.youtube.com/watch?v=nwMycwsC_-8" Bruce Molsky Band </a>
 
 Pig in a Pen
 
-Piney Mountain
+Piney Mountain <a href = "https://www.youtube.com/watch?v=jv6RN3KpVk0" Bruce Molsky </a>
 
 Pretty Saro  <a href ="https://www.youtube.com/watch?v=VerYTG1MlhE&list=PLuyJzev9Xki1k2t9YB1geYq0CXl3-NhCQ"> Played here  </a> by Tatiana Hargreaves.
 
