@@ -8,7 +8,7 @@ Church Street Blues
 
 How Mountain Girls Can Love
 
-Nellie Kane (lyrics and chords)
+Nellie Kane [Lyrics and chords](Lyrics\Nellie Kane.txt)
 
 Nine Pound Hammer
 
