@@ -60,6 +60,8 @@ I get my Whiskey from Rockingham <a href ="https://www.youtube.com/watch?v=lYh0L
 
 Jack of Diamonds <a href ="https://www.youtube.com/watch?v=jxmtrd0H8og"> Bruce Molsky </a> 
 
+June Apple
+
 Lazy John <a href ="https://www.youtube.com/watch?v=AZCLPwFZGgY"> Bruce Molsky </a> 
 
 Midnight on the Water <a href ="https://www.youtube.com/watch?v=qc0-LIkX2zQ"> Daniel Foulks </a>
@@ -115,6 +117,8 @@ Drowsy Maggie
 
 Farewell to Trion <a href = "https://www.youtube.com/watch?v=zJQabRQjXEw"> James Bryan </a>
 
+Fishers Hornpipe
+
 Flowers of Edinburgh
 
 Grand Etang
@@ -140,6 +144,8 @@ The Rights of Man <a href = "https://www.youtube.com/watch?v=jcI-aqZ1qQA">  Davi
 Road to Lisdoonvarna
 
 The Road to Spencer <a href = "https://www.youtube.com/watch?v=X5g6KaLAuPw">  Ricky Skaggs </a>
+
+St. Anne's Reel
 
 Si Bheag Si Mor
 
