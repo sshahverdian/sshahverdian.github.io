@@ -123,6 +123,10 @@ Flowers of Edinburgh
 
 Grand Etang
 
+Harvest Home
+
+Haste to the Wedding
+
 Home by Bearna [Listen](Recordings\Home by Bearna.mp3)
 
 Hull's Reel <a href ="https://www.youtube.com/watch?v=08zd3hI87bc"> Alasdair Fraser and Natalie Haas </a> -- [Sheet Music](Sheet music\Hull's Reel.pdf)
@@ -139,11 +143,15 @@ The Merry Sisters of Fate [Sheet Music](Sheet music\The Merry Sisters Of Fate.pd
 
 Morrison's Jig [Sheet Music](Sheet music\Morrison's jig.pdf) with chords
 
-The Rights of Man <a href = "https://www.youtube.com/watch?v=jcI-aqZ1qQA">  David Algeo Smith </a>
+Planxty Irwin
+
+Rights of Man <a href = "https://www.youtube.com/watch?v=jcI-aqZ1qQA">  David Algeo Smith </a>
 
 Road to Lisdoonvarna
 
 The Road to Spencer <a href = "https://www.youtube.com/watch?v=X5g6KaLAuPw">  Ricky Skaggs </a>
+
+Sally Gardens
 
 St. Anne's Reel
 
