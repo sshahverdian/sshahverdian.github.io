@@ -145,6 +145,8 @@ Morrison's Jig [Sheet Music](Sheet music\Morrison's jig.pdf) with chords
 
 Planxty Irwin
 
+Rannie MacLellan's Reel [Sheet Music](Sheet music\Rannie MacLellan's.pdf)
+
 Rights of Man <a href = "https://www.youtube.com/watch?v=jcI-aqZ1qQA">  David Algeo Smith </a>
 
 The Road to Gountane [Sheet Music](Sheet music\The Road To Glountane.pdf)
