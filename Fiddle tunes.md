@@ -145,7 +145,7 @@ Morrison's Jig [Sheet Music](Sheet music\Morrison's jig.pdf) with chords
 
 Planxty Irwin
 
-Rannie MacLellan's Reel [Sheet Music](Sheet music\Rannie MacLellan's.pdf)
+Rannie MacLellan's Reel [Sheet Music](Sheet music\Rannie MacLellans.pdf)
 
 Rights of Man <a href = "https://www.youtube.com/watch?v=jcI-aqZ1qQA">  David Algeo Smith </a>
 
