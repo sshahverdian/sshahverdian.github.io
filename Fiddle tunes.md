@@ -147,6 +147,8 @@ Planxty Irwin
 
 Rights of Man <a href = "https://www.youtube.com/watch?v=jcI-aqZ1qQA">  David Algeo Smith </a>
 
+The Road to Gountane [Sheet Music]()
+
 Road to Lisdoonvarna
 
 The Road to Spencer <a href = "https://www.youtube.com/watch?v=X5g6KaLAuPw">  Ricky Skaggs </a>
