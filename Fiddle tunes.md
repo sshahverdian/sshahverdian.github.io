@@ -110,8 +110,9 @@ The Banshee <a href = "https://www.youtube.com/watch?v=qzpNKvRaM0k">  Kevin Burk
 
 The Blarney Pilgrim [Sheet Music](Sheet music\The Blarney Pilgrim - The Kesh Jig.pdf)
 
-
 Cliffs of Moher <a href = "https://www.youtube.com/watch?v=3zYlEPAkGek">  Kevin Burke </a> -- [Sheet Music](Sheet music\The Cliffs Of Moher.pdf)
+
+Cooley's Reel
 
 Drowsy Maggie
 
@@ -121,6 +122,10 @@ Fishers Hornpipe
 
 Flowers of Edinburgh
 
+Foxhunters
+
+Gillian's Waltz (Last Waltz)
+
 Grand Etang
 
 Harvest Home
@@ -129,19 +134,29 @@ Haste to the Wedding
 
 Home by Bearna [Listen](Recordings\Home by Bearna.mp3)
 
+House of Calliope (Calliope Meets Frank)
+
 Hull's Reel <a href ="https://www.youtube.com/watch?v=08zd3hI87bc"> Alasdair Fraser and Natalie Haas </a> -- [Sheet Music](Sheet music\Hull's Reel.pdf)
 
 Irish Washerwoman
 
-The Kesh Jig
+Kesh Jig
 
-The Maid Behind the Bar [Sheet Music](Sheet music\The Maid Behind The Bar.pdf) <a href = "https://www.youtube.com/watch?v=StDL0SzDd2M"> Listen here </a>
+Lilting Banshee
+
+Maid Behind the Bar [Sheet Music](Sheet music\The Maid Behind The Bar.pdf) <a href = "https://www.youtube.com/watch?v=StDL0SzDd2M"> Listen here </a>
 
 Mary Blacksmith
 
 The Merry Sisters of Fate [Sheet Music](Sheet music\The Merry Sisters Of Fate.pdf)
 
 Morrison's Jig [Sheet Music](Sheet music\Morrison's jig.pdf) with chords
+
+Old Joe's
+
+Ook Pick Waltz
+
+Out on the Ocean
 
 Planxty Irwin
 
