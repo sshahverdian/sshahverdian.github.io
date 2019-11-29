@@ -207,10 +207,12 @@ Tamlin <a href = "https://www.youtube.com/watch?v=_QuVHGn37dc">  Ian Walsh </a>
 
 Tidy Woman
 
-<!--sets
+Sets
 Banshee
 Mary Blacksmith
 Maid behind the Bar
+
+<!-- is this how you comment out?
 
 Road to Lisdoonvarna
 Swallowtail Jig
