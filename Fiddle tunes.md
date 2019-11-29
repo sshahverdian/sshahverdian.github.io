@@ -208,13 +208,11 @@ Tamlin <a href = "https://www.youtube.com/watch?v=_QuVHGn37dc">  Ian Walsh </a>
 Tidy Woman
 
 Sets
+
 Banshee - Mary Blacksmith - Maid behind the Bar
 
+Road to Lisdoonvarna - Swallowtail Jig - Morrison's Jig
 
-
-Road to Lisdoonvarna
-Swallowtail Jig
-Morrison's Jig
 <!-- is this how you comment out?
 Rakes of Kildare
  The Mountain Road
