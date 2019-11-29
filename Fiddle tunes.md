@@ -100,7 +100,7 @@ Salt Creek
 
 Shady Grove
 
-Shove the Pigs Foot a Little Further in the Fire
+Shove the Pigs Foot a Little Further in the Fire <a href = "https://www.youtube.com/watch?v=PralzWVNj-8"> Bruce Molsky and Jay Ungar </a>
 
 Soldier's Joy
 
